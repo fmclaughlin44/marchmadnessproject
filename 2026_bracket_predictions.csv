@@ -1,64 +1,64 @@
 region,round,team_a,seed_a,team_b,seed_b,prob_a,predicted_winner,winner_seed
-East,Round of 64,Duke,1,Siena,16,0.985,Duke,1
-East,Round of 64,Ohio St,8,TCU,9,0.507,Ohio St,8
-East,Round of 64,St John's,5,N Iowa,12,0.9,St John's,5
-East,Round of 64,Kansas,4,Cal Baptist,13,0.899,Kansas,4
-East,Round of 64,Louisville,6,South Florida,11,0.889,Louisville,6
-East,Round of 64,Michigan St,3,N Dakota St,14,0.923,Michigan St,3
-East,Round of 64,UCLA,7,UCF,10,0.75,UCLA,7
-East,Round of 64,Connecticut,2,Furman,15,0.989,Connecticut,2
-East,Round of 32,Duke,1,Ohio St,8,0.966,Duke,1
-East,Round of 32,St John's,5,Kansas,4,0.498,Kansas,4
-East,Round of 32,Louisville,6,Michigan St,3,0.375,Michigan St,3
-East,Round of 32,UCLA,7,Connecticut,2,0.258,Connecticut,2
-East,Sweet 16,Duke,1,Kansas,4,0.923,Duke,1
-East,Sweet 16,Michigan St,3,Connecticut,2,0.377,Connecticut,2
-East,Elite 8,Duke,1,Connecticut,2,0.908,Duke,1
-South,Round of 64,Florida,1,Lehigh,16,0.947,Florida,1
-South,Round of 64,Clemson,8,Iowa,9,0.143,Iowa,9
-South,Round of 64,Vanderbilt,5,McNeese St,12,0.856,Vanderbilt,5
-South,Round of 64,Nebraska,4,Troy,13,0.933,Nebraska,4
-South,Round of 64,North Carolina,6,VCU,11,0.598,North Carolina,6
-South,Round of 64,Illinois,3,Penn,14,0.856,Illinois,3
-South,Round of 64,St Mary's CA,7,Texas A&M,10,0.602,St Mary's CA,7
-South,Round of 64,Houston,2,Idaho,15,0.994,Houston,2
-South,Round of 32,Florida,1,Iowa,9,0.895,Florida,1
-South,Round of 32,Vanderbilt,5,Nebraska,4,0.585,Vanderbilt,5
-South,Round of 32,North Carolina,6,Illinois,3,0.061,Illinois,3
-South,Round of 32,St Mary's CA,7,Houston,2,0.091,Houston,2
-South,Sweet 16,Florida,1,Vanderbilt,5,0.802,Florida,1
-South,Sweet 16,Illinois,3,Houston,2,0.447,Houston,2
-South,Elite 8,Florida,1,Houston,2,0.652,Florida,1
-West,Round of 64,Arizona,1,LIU Brooklyn,16,0.992,Arizona,1
-West,Round of 64,Villanova,8,Utah St,9,0.391,Utah St,9
-West,Round of 64,Wisconsin,5,High Point,12,0.9,Wisconsin,5
-West,Round of 64,Arkansas,4,Hawaii,13,0.949,Arkansas,4
-West,Round of 64,BYU,6,NC State,11,0.811,BYU,6
-West,Round of 64,Gonzaga,3,Kennesaw,14,0.908,Gonzaga,3
-West,Round of 64,Miami FL,7,Missouri,10,0.722,Miami FL,7
-West,Round of 64,Purdue,2,Queens NC,15,0.981,Purdue,2
-West,Round of 32,Arizona,1,Utah St,9,0.965,Arizona,1
-West,Round of 32,Wisconsin,5,Arkansas,4,0.216,Arkansas,4
-West,Round of 32,BYU,6,Gonzaga,3,0.516,BYU,6
-West,Round of 32,Miami FL,7,Purdue,2,0.13,Purdue,2
-West,Sweet 16,Arizona,1,Arkansas,4,0.926,Arizona,1
-West,Sweet 16,BYU,6,Purdue,2,0.183,Purdue,2
-West,Elite 8,Arizona,1,Purdue,2,0.684,Arizona,1
-Midwest,Round of 64,Michigan,1,UMBC,16,0.847,Michigan,1
-Midwest,Round of 64,Georgia,8,St Louis,9,0.668,Georgia,8
-Midwest,Round of 64,Texas Tech,5,Akron,12,0.841,Texas Tech,5
-Midwest,Round of 64,Alabama,4,Hofstra,13,0.856,Alabama,4
-Midwest,Round of 64,Tennessee,6,SMU,11,0.74,Tennessee,6
-Midwest,Round of 64,Virginia,3,Wright St,14,0.989,Virginia,3
-Midwest,Round of 64,Kentucky,7,Santa Clara,10,0.734,Kentucky,7
+East,Round of 64,Duke,1,Siena,16,0.987,Duke,1
+East,Round of 64,Ohio St,8,TCU,9,0.516,Ohio St,8
+East,Round of 64,St John's,5,N Iowa,12,0.889,St John's,5
+East,Round of 64,Kansas,4,Cal Baptist,13,0.903,Kansas,4
+East,Round of 64,Louisville,6,South Florida,11,0.867,Louisville,6
+East,Round of 64,Michigan St,3,N Dakota St,14,0.951,Michigan St,3
+East,Round of 64,UCLA,7,UCF,10,0.752,UCLA,7
+East,Round of 64,Connecticut,2,Furman,15,0.986,Connecticut,2
+East,Round of 32,Duke,1,Ohio St,8,0.972,Duke,1
+East,Round of 32,St John's,5,Kansas,4,0.523,St John's,5
+East,Round of 32,Louisville,6,Michigan St,3,0.36,Michigan St,3
+East,Round of 32,UCLA,7,Connecticut,2,0.314,Connecticut,2
+East,Sweet 16,Duke,1,St John's,5,0.928,Duke,1
+East,Sweet 16,Michigan St,3,Connecticut,2,0.357,Connecticut,2
+East,Elite 8,Duke,1,Connecticut,2,0.925,Duke,1
+South,Round of 64,Florida,1,Lehigh,16,0.954,Florida,1
+South,Round of 64,Clemson,8,Iowa,9,0.121,Iowa,9
+South,Round of 64,Vanderbilt,5,McNeese St,12,0.829,Vanderbilt,5
+South,Round of 64,Nebraska,4,Troy,13,0.939,Nebraska,4
+South,Round of 64,North Carolina,6,VCU,11,0.548,North Carolina,6
+South,Round of 64,Illinois,3,Penn,14,0.889,Illinois,3
+South,Round of 64,St Mary's CA,7,Texas A&M,10,0.597,St Mary's CA,7
+South,Round of 64,Houston,2,Idaho,15,0.996,Houston,2
+South,Round of 32,Florida,1,Iowa,9,0.893,Florida,1
+South,Round of 32,Vanderbilt,5,Nebraska,4,0.601,Vanderbilt,5
+South,Round of 32,North Carolina,6,Illinois,3,0.071,Illinois,3
+South,Round of 32,St Mary's CA,7,Houston,2,0.07,Houston,2
+South,Sweet 16,Florida,1,Vanderbilt,5,0.8,Florida,1
+South,Sweet 16,Illinois,3,Houston,2,0.42,Houston,2
+South,Elite 8,Florida,1,Houston,2,0.629,Florida,1
+West,Round of 64,Arizona,1,LIU Brooklyn,16,0.994,Arizona,1
+West,Round of 64,Villanova,8,Utah St,9,0.393,Utah St,9
+West,Round of 64,Wisconsin,5,High Point,12,0.909,Wisconsin,5
+West,Round of 64,Arkansas,4,Hawaii,13,0.933,Arkansas,4
+West,Round of 64,BYU,6,NC State,11,0.783,BYU,6
+West,Round of 64,Gonzaga,3,Kennesaw,14,0.924,Gonzaga,3
+West,Round of 64,Miami FL,7,Missouri,10,0.706,Miami FL,7
+West,Round of 64,Purdue,2,Queens NC,15,0.982,Purdue,2
+West,Round of 32,Arizona,1,Utah St,9,0.97,Arizona,1
+West,Round of 32,Wisconsin,5,Arkansas,4,0.229,Arkansas,4
+West,Round of 32,BYU,6,Gonzaga,3,0.502,BYU,6
+West,Round of 32,Miami FL,7,Purdue,2,0.129,Purdue,2
+West,Sweet 16,Arizona,1,Arkansas,4,0.923,Arizona,1
+West,Sweet 16,BYU,6,Purdue,2,0.178,Purdue,2
+West,Elite 8,Arizona,1,Purdue,2,0.674,Arizona,1
+Midwest,Round of 64,Michigan,1,UMBC,16,0.86,Michigan,1
+Midwest,Round of 64,Georgia,8,St Louis,9,0.657,Georgia,8
+Midwest,Round of 64,Texas Tech,5,Akron,12,0.821,Texas Tech,5
+Midwest,Round of 64,Alabama,4,Hofstra,13,0.839,Alabama,4
+Midwest,Round of 64,Tennessee,6,SMU,11,0.742,Tennessee,6
+Midwest,Round of 64,Virginia,3,Wright St,14,0.971,Virginia,3
+Midwest,Round of 64,Kentucky,7,Santa Clara,10,0.704,Kentucky,7
 Midwest,Round of 64,Iowa St,2,Tennessee St,15,0.981,Iowa St,2
-Midwest,Round of 32,Michigan,1,Georgia,8,0.926,Michigan,1
-Midwest,Round of 32,Texas Tech,5,Alabama,4,0.327,Alabama,4
-Midwest,Round of 32,Tennessee,6,Virginia,3,0.347,Virginia,3
-Midwest,Round of 32,Kentucky,7,Iowa St,2,0.112,Iowa St,2
-Midwest,Sweet 16,Michigan,1,Alabama,4,0.87,Michigan,1
-Midwest,Sweet 16,Virginia,3,Iowa St,2,0.218,Iowa St,2
-Midwest,Elite 8,Michigan,1,Iowa St,2,0.771,Michigan,1
-East/South,Final Four,Duke,1,Florida,1,0.718,Duke,1
-West/Midwest,Final Four,Arizona,1,Michigan,1,0.613,Arizona,1
-National,Championship,Duke,1,Arizona,1,0.692,Duke,1
+Midwest,Round of 32,Michigan,1,Georgia,8,0.927,Michigan,1
+Midwest,Round of 32,Texas Tech,5,Alabama,4,0.322,Alabama,4
+Midwest,Round of 32,Tennessee,6,Virginia,3,0.348,Virginia,3
+Midwest,Round of 32,Kentucky,7,Iowa St,2,0.101,Iowa St,2
+Midwest,Sweet 16,Michigan,1,Alabama,4,0.839,Michigan,1
+Midwest,Sweet 16,Virginia,3,Iowa St,2,0.261,Iowa St,2
+Midwest,Elite 8,Michigan,1,Iowa St,2,0.758,Michigan,1
+East/South,Final Four,Duke,1,Florida,1,0.747,Duke,1
+West/Midwest,Final Four,Arizona,1,Michigan,1,0.586,Arizona,1
+National,Championship,Duke,1,Arizona,1,0.7,Duke,1
